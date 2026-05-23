@@ -14,6 +14,6 @@ This project utilizes neuroimaging data from the **Open Academic South Side Imag
 * **Architecture:** Inflated 3D ResNet-18 model tailored for volumetric data.
 * **Explainability:** Grad-CAM layer hooks implemented to visualize class activation heatmaps across 3D brain volumes.
 
-## 👥 Contributors
+## Contributors
 * **Korinne Ciechon** 
 * **Justin Parrondo** 
