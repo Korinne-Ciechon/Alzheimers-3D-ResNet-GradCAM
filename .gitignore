@@ -1,0 +1,5 @@
+# Ignore local data directories
+data/
+.ipynb_checkpoints/
+*.zip
+*.tar.gz
